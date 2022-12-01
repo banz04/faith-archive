@@ -22,15 +22,16 @@ Pope Saint John Paul II suggested the recitation of the Rosary as follows:
             <td align="center" valign="top" rowspan="3">Luminous</td>
             <td align="center" valign="top" rowspan="3">Sorrowful</td>
             <td align="center" valign="top" rowspan="3">Joyful</td>
-            <td align="right" valign="top" colspan="2">Glorious</td>
+            <td align="right">Normal Sundays</td>
+            <td align="center" valign="top">Glorious</td>
         </tr>
         <tr>
-            <td>Sundays of Lent</td>
-            <td align="right" valign="top">Sorrowful</td>
+            <td align="right">Lent</td>
+            <td align="center" valign="top">Sorrowful</td>
         </tr>
         <tr>
-            <td>Christmas and Advent</td>
-            <td align="right" valign="top">Joyful</td>
+            <td align="right">Advent and Christmas</td>
+            <td align="center" valign="top">Joyful</td>
         </tr>
     </tbody>
 </table>
