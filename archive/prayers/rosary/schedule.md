@@ -26,7 +26,7 @@ Pope Saint John Paul II suggested the recitation of the Rosary as follows:
             <td align="center" valign="top">Glorious</td>
         </tr>
         <tr>
-            <td align="right">Lent</td>
+            <td align="right">Sundays of Lent</td>
             <td align="center" valign="top">Sorrowful</td>
         </tr>
         <tr>
