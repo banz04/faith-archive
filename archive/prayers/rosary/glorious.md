@@ -27,17 +27,12 @@ God, pray for us sinners, now and at the hour of our death. Amen.
 Glory be to the Father, and to the Son, and to the Holy Spirit. As it was in the
 beginning, is now, and ever shall be, world without end. Amen.
 
-# The First Glorious Mystery – The Resurrection of Jesus
+---
+
+# <sup><sub>The First Glorious Mystery</sub></sup><br>The Resurrection of Jesus
 Spiritual Fruit: **Faith**
 
-<details>
-<summary><h3>Our Father</h3></summary>
-
-> Our Father, who art in heaven hallowed be thy name; thy kingdom come;
-thy will be done on earth as it is in heaven. Give us this day our daily bread and forgive us our
-trespasses as we forgive those who trespass against us; and lead us not into temptation, but
-deliver us from evil. Amen.
-</details>
+### Our Father
 
 ### Ten Hail Marys
 1. The body of Jesus is placed in the tomb on the evening of Good Friday.
@@ -54,12 +49,7 @@ the tomb open.
 not be afraid.”
 10. Jesus breathes on them and gives them the power to forgive sin.
 
-<details>
-<summary><h3>Glory Be</h3></summary>
-
-> Glory be to the Father, and to the Son, and to the Holy Spirit. As it was in the
-beginning, is now, and ever shall be, world without end. Amen.
-</details>
+### Glory Be
 
 ### Oh My Jesus
 O my Jesus, forgive us our sins. Save us from the fires of hell. Lead all souls into heaven,
