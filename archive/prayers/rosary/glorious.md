@@ -1,4 +1,7 @@
-# The Glorious Mysteries
+<h1 align="center">
+  The Glorious Mysteries
+</h1>
+
 In the name of the Father, and of the Son, and of the Holy Spirit. Amen.
 
 ### 1. Apostles' Creed
@@ -30,7 +33,7 @@ beginning, is now, and ever shall be, world without end. Amen.
 #
 
 <div align="center">
-  <img src="../.github/assets/chapters/i.png" height=100>
+  <sub><sub><img src="https://github.com/banz04/faith-archive/blob/main/.github/assets/chapters/i.png" height=100>
 </div>
 
 <h1 align="center">
@@ -65,7 +68,7 @@ especially those in most need of thy mercy.
 #
 
 <div align="center">
-  <img src="../.github/assets/chapters/ii.png" height=100>
+  <sub><sub><img src="https://github.com/banz04/faith-archive/blob/main/.github/assets/chapters/ii.png" height=100>
 </div>
 
 <h1 align="center">
@@ -103,7 +106,7 @@ especially those in most need of thy mercy.
 #
 
 <div align="center">
-  <img src="../.github/assets/chapters/iii.png" height=100>
+  <sub><sub><img src="https://github.com/banz04/faith-archive/blob/main/.github/assets/chapters/iii.png" height=100>
 </div>
 
 <h1 align="center">
@@ -137,7 +140,7 @@ especially those in most need of thy mercy.
 #
 
 <div align="center">
-  <img src="../.github/assets/chapters/iv.png" height=100>
+  <sub><sub><img src="https://github.com/banz04/faith-archive/blob/main/.github/assets/chapters/iv.png" height=100>
 </div>
 
 <h1 align="center">
@@ -173,7 +176,7 @@ especially those in most need of thy mercy.
 #
 
 <div align="center">
-  <img src="../.github/assets/chapters/v.png" height=100>
+  <sub><sub><img src="https://github.com/banz04/faith-archive/blob/main/.github/assets/chapters/v.png" height=100>
 </div>
 
 <h1 align="center">
@@ -206,7 +209,10 @@ feet, and on her head a crown of twelve stars.
 O my Jesus, forgive us our sins. Save us from the fires of hell. Lead all souls into heaven,
 especially those in most need of thy mercy.
 
-# Closing Prayers
+<h1 align="center">
+  Closing Prayers
+</h1>
+
 ### Hail Holy Queen
 Hail Holy Queen, Mother of Mercy, our Life, our Sweetness, and our hope. To thee we cry, poor
 banished children of Eve. To thee we send up our sighs, mourning and weeping in this vale of
