@@ -29,7 +29,14 @@ beginning, is now, and ever shall be, world without end. Amen.
 
 #
 
-# <sup><sub>The First Glorious Mystery</sub></sup><br>The Resurrection of Jesus
+<div align="center">
+  <img src="../.github/assets/chapters/i.png" height=100>
+</div>
+
+<h1 align="center">
+  <sup><sub>The First Glorious Mystery</sub></sup><br>The Resurrection of Jesus
+</h1>
+
 Spiritual Fruit: **Faith**
 
 ### Our Father
@@ -57,7 +64,14 @@ especially those in most need of thy mercy.
 
 #
 
-# <sup><sub>The Second Glorious Mystery</sub></sup><br>The Ascension of Our Lord into Heaven
+<div align="center">
+  <img src="../.github/assets/chapters/ii.png" height=100>
+</div>
+
+<h1 align="center">
+  <sup><sub>The Second Glorious Mystery</sub></sup><br>The Ascension of Our Lord into Heaven
+</h1>
+
 Spiritual Fruit: **Hope**
 
 ### Our Father
@@ -88,7 +102,14 @@ especially those in most need of thy mercy.
 
 #
 
-# <sup><sub>The Third Glorious Mystery</sub></sup><br>The Holy Spirit Comes Upon Mary and the Apostles
+<div align="center">
+  <img src="../.github/assets/chapters/iii.png" height=100>
+</div>
+
+<h1 align="center">
+  <sup><sub>The Third Glorious Mystery</sub></sup><br>The Holy Spirit Comes Upon Mary and the Apostles
+</h1>
+
 Spiritual Fruit: **Gifts of the Holy Spirit**
 
 ### Our Father
@@ -115,7 +136,14 @@ especially those in most need of thy mercy.
 
 #
 
-# <sup><sub>The Fourth Glorious Mystery</sub></sup><br>The Assumption of Mary
+<div align="center">
+  <img src="../.github/assets/chapters/iv.png" height=100>
+</div>
+
+<h1 align="center">
+  <sup><sub>The Fourth Glorious Mystery</sub></sup><br>The Assumption of Mary
+</h1>
+
 Spiritual Fruit: **Desire for Heaven**
 
 ### Our Father
@@ -144,7 +172,14 @@ especially those in most need of thy mercy.
 
 #
 
-# <sup><sub>The Fifth Glorious Mystery</sub></sup><br>The Coronation of Mary as Queen of Heaven and Earth
+<div align="center">
+  <img src="../.github/assets/chapters/v.png" height=100>
+</div>
+
+<h1 align="center">
+  <sup><sub>The Fifth Glorious Mystery</sub></sup><br>The Coronation of Mary as Queen of Heaven and Earth
+</h1>
+
 Spiritual Fruit: **Grace of Final Perseverance**
 
 ### Our Father
