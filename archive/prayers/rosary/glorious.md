@@ -33,7 +33,7 @@ beginning, is now, and ever shall be, world without end. Amen.
 #
 
 <div align="center">
-  <sub><sub><img src="https://github.com/banz04/faith-archive/blob/main/.github/assets/chapters/i.png" height=100>
+  <sub><sub><img src="https://github.com/banz04/faith-archive/blob/main/.github/assets/chapters/i.png" height=90>
 </div>
 
 <h1 align="center">
@@ -68,7 +68,7 @@ especially those in most need of thy mercy.
 #
 
 <div align="center">
-  <sub><sub><img src="https://github.com/banz04/faith-archive/blob/main/.github/assets/chapters/ii.png" height=100>
+  <sub><sub><img src="https://github.com/banz04/faith-archive/blob/main/.github/assets/chapters/ii.png" height=90>
 </div>
 
 <h1 align="center">
@@ -106,7 +106,7 @@ especially those in most need of thy mercy.
 #
 
 <div align="center">
-  <sub><sub><img src="https://github.com/banz04/faith-archive/blob/main/.github/assets/chapters/iii.png" height=100>
+  <sub><sub><img src="https://github.com/banz04/faith-archive/blob/main/.github/assets/chapters/iii.png" height=90>
 </div>
 
 <h1 align="center">
@@ -140,7 +140,7 @@ especially those in most need of thy mercy.
 #
 
 <div align="center">
-  <sub><sub><img src="https://github.com/banz04/faith-archive/blob/main/.github/assets/chapters/iv.png" height=100>
+  <sub><sub><img src="https://github.com/banz04/faith-archive/blob/main/.github/assets/chapters/iv.png" height=90>
 </div>
 
 <h1 align="center">
@@ -176,7 +176,7 @@ especially those in most need of thy mercy.
 #
 
 <div align="center">
-  <sub><sub><img src="https://github.com/banz04/faith-archive/blob/main/.github/assets/chapters/v.png" height=100>
+  <sub><sub><img src="https://github.com/banz04/faith-archive/blob/main/.github/assets/chapters/v.png" height=90>
 </div>
 
 <h1 align="center">
